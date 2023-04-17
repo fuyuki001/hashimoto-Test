@@ -11,6 +11,6 @@ class hashimoto:
             print("takuya")
     
 
-sensei_fullname = hashimoto(True, True)
+sensei_fullname = hashimoto(first=True, last=True)
 
 sensei_fullname.printname()
