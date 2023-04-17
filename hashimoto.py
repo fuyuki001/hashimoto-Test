@@ -9,10 +9,8 @@ class hashimoto:
         
         if(self.last):
             print("takuya")
-        
     
 
-sensei = hashimoto(True, True)
+sensei_fullname = hashimoto(True, True)
 
-sensei.printname()
-
+sensei_fullname.printname()
